@@ -1,0 +1,62 @@
+html, body {
+    height: 100%;
+	margin: 0px;
+	background: #111 url('bg.png');
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: #ccc;
+	font-family: 'Roboto', sans-serif;
+}
+a {
+	text-decoration: none;
+	text-shadow: 0px 0px 2px #ddd;
+	color: #ddd;
+}
+a:hover {
+	text-shadow: 0px 0px 2px #fff;
+	color: #fff;
+}
+header {
+    background: rgba(255,255,255,0.1);
+	padding: 10px;
+}
+header p.nav {
+	display: flex;
+	justify-content: space-between;
+	margin: 0px;
+}
+main {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
+	margin: 20px;
+}
+main section {
+	width: 70%;
+}
+main img {
+	width: 20%;
+	height: 20%;
+}
+main p {
+	margin: 0px;
+	padding-top: 10px;
+}
+main p.title {
+	font-size: 36pt;
+}
+main p.subtitle {
+	font-size: 24pt;
+	padding-top: 20px;
+}
+main p.update {
+	font-size: 18pt;
+}
+ul, ol {
+	width: 75%;
+}
+ul li, ol li {
+	padding-bottom: 10px;
+}
