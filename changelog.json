@@ -1,0 +1,4728 @@
+[
+  {
+    "date": "July 17, 2024",
+    "games": [
+      {
+        "name": "(O_O)",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.00"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.1.01"
+          }
+        ]
+      },
+      {
+        "name": "[COLD]",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.ccc"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.co"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.co"
+          }
+        ]
+      },
+      {
+        "name": "Abashment",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.0.41"
+          }
+        ]
+      },
+      {
+        "name": "Aether",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.1.0"
+          }
+        ]
+      },
+      {
+        "name": "Akumu no Nikki",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.Beta"
+          }
+        ]
+      },
+      {
+        "name": "ALIEND DEAD",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.Update"
+          }
+        ]
+      },
+      {
+        "name": "Alien Flowers",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.2.2.0"
+          }
+        ]
+      },
+      {
+        "name": "Angel Wings",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.1"
+          }
+        ]
+      },
+      {
+        "name": "Any.One Online",
+        "changes": [
+          {
+            "action": "Edited:",
+            "description": "Renamed \"DDJ6 Version\" to \"ver.0.00\"."
+          }
+        ]
+      },
+      {
+        "name": "Aquarium",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00b"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.10"
+          }
+        ]
+      },
+      {
+        "name": "A Quiet Air",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.Alpha Demo"
+          }
+        ]
+      },
+      {
+        "name": "B:(ursed",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.02"
+          }
+        ]
+      },
+      {
+        "name": "Botaniki",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.1.4"
+          }
+        ]
+      },
+      {
+        "name": "Butterfly Effect",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.1"
+          }
+        ]
+      },
+      {
+        "name": "Camera",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.Beta (17.06.2024)"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.Beta (27.06.2024)"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.Beta (30.06.2024)"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.Beta (08.07.2024)"
+          }
+        ]
+      },
+      {
+        "name": "Cerasus",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.trunk"
+          }
+        ]
+      },
+      {
+        "name": "ColourS",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.beta2.2"
+          }
+        ]
+      },
+      {
+        "name": "Conexus",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.1"
+          }
+        ]
+      },
+      {
+        "name": "Collective Unconscious",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.Development Build (09.11.2022)"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.Development Build (18.01.2023)"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.Development Build (13.03.2023)"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.Development Build (19.06.2023)"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.Development Build (01.10.2023)"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.Release Build (08.06.2024)"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.Release Build (10.06.2024)"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.Development Build (15.07.2024)"
+          }
+        ]
+      },
+      {
+        "name": "Curtained Moon",
+        "changes": [
+          {
+            "action": "Edited:",
+            "description": "Linux, Mac and Windows editions of ver.00.02 has been placed in a single folder."
+          }
+        ]
+      },
+      {
+        "name": "Cyphersomina",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.Demo"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.PTB"
+          }
+        ]
+      },
+      {
+        "name": "Debilitating Dream",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.1"
+          }
+        ]
+      },
+      {
+        "name": "Debris",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "Korean translation of ver.0.07"
+          }
+        ]
+      },
+      {
+        "name": "Dedz0ne",
+        "changes": [
+          {
+            "action": "Edited:",
+            "description": "Renamed \"DDJ7 Version\" to \"ver.0.2\"."
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.3"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.1.0"
+          }
+        ]
+      },
+      {
+        "name": "DNA Subject: Lucy",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.0"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.0 (Updated)"
+          }
+        ]
+      },
+      {
+        "name": "Down The Eye Of The Tiger",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.demo (bugfix)"
+          }
+        ]
+      },
+      {
+        "name": "Drawing with Nat",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.1.1a"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.1a"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.2"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.2.1"
+          }
+        ]
+      },
+      {
+        "name": "Dream Arena",
+        "changes": [
+          {
+            "action": "Edited:",
+            "description": "Linux, Mac and Windows editions of ver.Indev 1.0.1 has been placed in a single folder."
+          }
+        ]
+      },
+      {
+        "name": "Dream Chaser",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.0.1 bugfix"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.0.2"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.0.2 bugfix"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.0.5"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.1.0"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.1.1"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.1.2"
+          }
+        ]
+      },
+      {
+        "name": "Dream ID Journey",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.01"
+          }
+        ]
+      },
+      {
+        "name": "Dream Seed",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.2"
+          }
+        ]
+      },
+      {
+        "name": "DreamCatcher",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "No Version"
+          }
+        ]
+      },
+      {
+        "name": "Dreaming Network",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.0 (08.07.2024)"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.0 (09.07.2024)"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.0 (12.07.2024)"
+          }
+        ]
+      },
+      {
+        "name": "Dreamy Idea",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.01"
+          }
+        ]
+      },
+      {
+        "name": "Elemental Dreams",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.1.0"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.2.0"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.3.0"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.3.1"
+          }
+        ]
+      },
+      {
+        "name": "ErIS: Z. θ-pRogram",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0-0.0"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0-0.1"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0-1.0"
+          }
+        ]
+      },
+      {
+        "name": "ETCETERA",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00a"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.01"
+          }
+        ]
+      },
+      {
+        "name": "Evergarden",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.1"
+          }
+        ]
+      },
+      {
+        "name": "Ex.Emi",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "English translation of ver.0.9."
+          },
+          {
+            "action": "Added:",
+            "version": "Korean translation of ver.0.9."
+          }
+        ]
+      },
+      {
+        "name": "Farewell",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "Anniversary Patch for ver.0.06"
+          }
+        ]
+      },
+      {
+        "name": "Fever (2003 Version)",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.20"
+          }
+        ]
+      },
+      {
+        "name": "FOG",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.1.48"
+          }
+        ]
+      },
+      {
+        "name": "For Elise",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.01"
+          }
+        ]
+      },
+      {
+        "name": "Fracture: The Dream",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.1.2"
+          }
+        ]
+      },
+      {
+        "name": "Fushichou no Yume",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "English and Korean translations of ver.0.X."
+          }
+        ]
+      },
+      {
+        "name": "gen.loss",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.00 hotfix"
+          }
+        ]
+      },
+      {
+        "name": "Hentekorin",
+        "changes": [
+          {
+            "action": "Edited:",
+            "description": "Linux, Mac and Windows editions of ver.DDJ 2017 has been placed in a single folder."
+          }
+        ]
+      },
+      {
+        "name": "Hickory Clock",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "No Version"
+          }
+        ]
+      },
+      {
+        "name": "Idtipsa",
+        "changes": [
+          {
+            "action": "Edited:",
+            "description": "README files were edited due to author's privacy concern."
+          }
+        ]
+      },
+      {
+        "name": "Inertia",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.Beta"
+          }
+        ]
+      },
+      {
+        "name": "INFERNULIA",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.3+"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.1.4"
+          }
+        ]
+      },
+      {
+        "name": "INTER08JECT",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.00+a (05.07.2024)"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.00+a (06.07.2024)"
+          }
+        ]
+      },
+      {
+        "name": "Illove Dream",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.01"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.02"
+          }
+        ]
+      },
+      {
+        "name": "Jigoku Nagashi",
+        "changes": [
+          {
+            "action": "Edited:",
+            "description": "Renamed ver.Remake folder."
+          }
+        ]
+      },
+      {
+        "name": "Kind Heart",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.03 patch"
+          }
+        ]
+      },
+      {
+        "name": "LAPIS lAZULi",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.0"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.2"
+          }
+        ]
+      },
+      {
+        "name": "LCD DEM",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "Legacy edition of ver.0.030."
+          },
+          {
+            "action": "Added:",
+            "version": "Oniro edition of ver.0.030."
+          }
+        ]
+      },
+      {
+        "name": "Lonely",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00 Patch 2 (2022 version)"
+          }
+        ]
+      },
+      {
+        "name": "Lost † Game",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "Data archives for Completed version"
+          }
+        ]
+      },
+      {
+        "name": "Lost Time",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00 Alpha"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.01 Alpha"
+          }
+        ]
+      },
+      {
+        "name": "Mangetsu no Yume",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00 Demo"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.00"
+          }
+        ]
+      },
+      {
+        "name": "Melting Encyclopedia",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.demo"
+          }
+        ]
+      },
+      {
+        "name": "MILK",
+        "changes": [
+          {
+            "action": "Edited:",
+            "description": "Renamed \"DDJ3 version\" folder to \"ver.DDJ3\"."
+          },
+          {
+            "action": "Added:",
+            "version": "ver.DDJ5"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.DDJ7 NEW"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.DDJ8 1st version"
+          }
+        ]
+      },
+      {
+        "name": "MiMiMi",
+        "changes": [
+          {
+            "action": "Edited:",
+            "description": "Renamed \"ver.DDJ7\" folder to \"ver.0.1\"."
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.2"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.2.5"
+          }
+        ]
+      },
+      {
+        "name": "Mind Reader",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.Test 1"
+          }
+        ]
+      },
+      {
+        "name": "Mizu",
+        "changes": [
+          {
+            "action": "Removed:",
+            "version": "ver.HALF+"
+          }
+        ]
+      },
+      {
+        "name": "Motel Snooze",
+        "changes": [
+          {
+            "action": "Edited:",
+            "description": "Renamed \"DDJ4 Version\" folder to \"ver.DDJ4\"."
+          }
+        ]
+      },
+      {
+        "name": "Muma Rope",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.33.2"
+          }
+        ]
+      },
+      {
+        "name": "MuMuMu: Mist of Six Dreams",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.0.0"
+          }
+        ]
+      },
+      {
+        "name": "My Dreams",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "No Version (12.12.2023)"
+          },
+          {
+            "action": "Added:",
+            "description": "No Version (30.03.2024)"
+          }
+        ]
+      },
+      {
+        "name": "NASU Pinball",
+        "changes": [
+          {
+            "action": "Edited:",
+            "description": "Linux, Mac and Windows editions of ver.1.0.0 has been placed in a single folder."
+          }
+        ]
+      },
+      {
+        "name": "Natsumi Kokochi",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.3.01"
+          }
+        ]
+      },
+      {
+        "name": "Neko Yume Douchuuki",
+        "changes": [
+          {
+            "action": "Edited:",
+            "description": "Replaced corrupted ver.0.03 archive with working one."
+          }
+        ]
+      },
+      {
+        "name": "Neonsomnia",
+        "changes": [
+          {
+            "action": "Edited:",
+            "description": "Renamed \"ver.DDJ7\" folder to \"ver.0.1\"."
+          }
+        ]
+      },
+      {
+        "name": "NightmareScape",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.01"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.03 (30.03.2024)"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.03 (06.04.2024)"
+          }
+        ]
+      },
+      {
+        "name": "Oddy's Lost and Found",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.DDJ7"
+          }
+        ]
+      },
+      {
+        "name": "Odeio Sonhar",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.demo (24.06.2024)"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.demo (25.06.2024)"
+          }
+        ]
+      },
+      {
+        "name": "Okuri",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.Complete"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0414 fix"
+          }
+        ]
+      },
+      {
+        "name": "Omori x Yume Nikki Crossover Fangame",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "No Version"
+          }
+        ]
+      },
+      {
+        "name": "On Border",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.10"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.11"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.11a"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.12"
+          }
+        ]
+      },
+      {
+        "name": "Oneiro",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.Demo"
+          }
+        ]
+      },
+      {
+        "name": "Onohi",
+        "changes": [
+          {
+            "action": "Edited:",
+            "description": "Mac and Windows editions of ver.0.0 has been placed in a single folder."
+          }
+        ]
+      },
+      {
+        "name": "Openlid",
+        "changes": [
+          {
+            "action": "Edited:",
+            "description": "Renamed \"ver.DDJ7\" folder into \"ver.0.1\"."
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.1.1"
+          }
+        ]
+      },
+      {
+        "name": "Our Magic Window",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00"
+          }
+        ]
+      },
+      {
+        "name": "Oversomina",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.1"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.1a"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.1d"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.1e"
+          }
+        ]
+      },
+      {
+        "name": "Passing By",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.1"
+          }
+        ]
+      },
+      {
+        "name": "Plasmanaut Is Alone",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.demo"
+          }
+        ]
+      },
+      {
+        "name": "Pokemon Dream World Diary",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.1"
+          }
+        ]
+      },
+      {
+        "name": "Puchi Nikki",
+        "changes": [
+          {
+            "action": "Edited:",
+            "description": "Renamed to \"Puchi Nikki (Nintendo DSi)\"."
+          }
+        ]
+      },
+      {
+        "name": "Px",
+        "changes": [
+          {
+            "action": "Edited:",
+            "description": "Linux, Mac and Windows editions of ver.1.0 has been placed in a single folder."
+          }
+        ]
+      },
+      {
+        "name": "Re:in",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "Spanish translation of ver.0.00."
+          }
+        ]
+      },
+      {
+        "name": "Reikai Nikki",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.011"
+          }
+        ]
+      },
+      {
+        "name": "Rekuiemu Nikki",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.1"
+          }
+        ]
+      },
+      {
+        "name": "REM-9: The Yume Nikki Randomizer",
+        "changes": [
+          {
+            "action": "Edited:",
+            "description": "Changed incorrect version folder name from \"ver.1.03a\" to \"ver.1.03b\"."
+          },
+          {
+            "action": "Added:",
+            "version": "ver.1.04a"
+          }
+        ]
+      },
+      {
+        "name": "Remember to Remember",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.01"
+          }
+        ]
+      },
+      {
+        "name": "Requie-mu",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.0"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.1.01"
+          }
+        ]
+      },
+      {
+        "name": "Rue",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.02a"
+          }
+        ]
+      },
+      {
+        "name": "Ruler's Reign",
+        "changes": [
+          {
+            "action": "Edited:",
+            "description": "Mac and Windows editions of ver.0.00 has been placed in a single folder."
+          }
+        ]
+      },
+      {
+        "name": "Severed Ties",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.0291"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.03"
+          }
+        ]
+      },
+      {
+        "name": "Shards",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.03-fix"
+          }
+        ]
+      },
+      {
+        "name": "She Awaits",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.025c"
+          }
+        ]
+      },
+      {
+        "name": "SIght",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.01"
+          }
+        ]
+      },
+      {
+        "name": "Silly Jesus",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.06"
+          }
+        ]
+      },
+      {
+        "name": "Sleepless",
+        "changes": [
+          {
+            "action": "Edited:",
+            "description": "Mac and Windows editions of ver.1.0 has been placed in a single folder."
+          }
+        ]
+      },
+      {
+        "name": "Someday",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.11"
+          }
+        ]
+      },
+      {
+        "name": "Somnilithe",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.beta 0.0.13"
+          }
+        ]
+      },
+      {
+        "name": "SpeluNikki",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "No Version"
+          }
+        ]
+      },
+      {
+        "name": "Swan Song",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.04"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.1.04 (bugfix)"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.1.1"
+          }
+        ]
+      },
+      {
+        "name": "Syndoy",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00 (Bugfix)"
+          }
+        ]
+      },
+      {
+        "name": "The Aching Aversion: Blood Orange Dreams",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "No Version (03.07.2024)"
+          },
+          {
+            "action": "Added:",
+            "description": "No Version (04.07.2024)"
+          }
+        ]
+      },
+      {
+        "name": "The Dreams of Fritz",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "No Version (06.07.2024)"
+          },
+          {
+            "action": "Added:",
+            "description": "No Version (07.07.2024)"
+          },
+          {
+            "action": "Added:",
+            "description": "No Version (08.07.2024)"
+          },
+          {
+            "action": "Added:",
+            "description": "No Version (09.07.2024)"
+          },
+          {
+            "action": "Added:",
+            "description": "No Version (10.07.2024)"
+          }
+        ]
+      },
+      {
+        "name": "The Invisible Smoke Factory",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.0.0"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.1.1.3"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.1.1.4"
+          }
+        ]
+      },
+      {
+        "name": "Trade Effluent",
+        "changes": [
+          {
+            "action": "Edited:",
+            "description": "Mac and Windows editions of ver.0.00 has been placed in a single folder."
+          }
+        ]
+      },
+      {
+        "name": "Tsukodome",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.0.1"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.0.2"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.0.3"
+          }
+        ]
+      },
+      {
+        "name": "Unaccomplished",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.。"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.。！"
+          }
+        ]
+      },
+      {
+        "name": "Uneven Dream",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.08"
+          }
+        ]
+      },
+      {
+        "name": "Wakana Nikki",
+        "changes": [
+          {
+            "action": "Edited:",
+            "description": "Added date of release to \"ver.0.00\" folder due to update."
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.00 RM2k3 (10.07.2024)"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.00 RMVXAce (10.07.2024)"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.1.00"
+          }
+        ]
+      },
+      {
+        "name": "WeAreDreaming",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.02"
+          }
+        ]
+      },
+      {
+        "name": "while (true)",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.1.0"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.1.1"
+          }
+        ]
+      },
+      {
+        "name": "Witoru Neta Dream",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "English translation of ver.β++."
+          }
+        ]
+      },
+      {
+        "name": "Yqriel",
+        "changes": [
+          {
+            "action": "Edited:",
+            "description": "Renamed \"ver.4.0a\" to \"ver.0.4.0.a\"."
+          }
+        ]
+      },
+      {
+        "name": "YuMayhem",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.0"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.1.01"
+          }
+        ]
+      },
+      {
+        "name": "Yume 2kki",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.120e"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.120f"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.120g"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.120h"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.120i"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.121"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.121a"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.121b"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.121c"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.121d"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.121e"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.121f"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.121g"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.121h"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.121i"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.122"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.122a"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.122b"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.122c"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.122d"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.122e"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.122f"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.122g"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.122h"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.122i"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.123"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.123a"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.123b"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.123c"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.123d"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.123e"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.123f"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.123g"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.123h"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.123i"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.124"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.124a"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.124b"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.124c"
+          }
+        ]
+      },
+      {
+        "name": "Yume Cyber",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "No Version (30.01.2024)"
+          },
+          {
+            "action": "Added:",
+            "description": "No Version (04.04.2024)"
+          }
+        ]
+      },
+      {
+        "name": "Yume Doodle",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.3.0 (bugfix)"
+          }
+        ]
+      },
+      {
+        "name": "Yume Gufi",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "No Version"
+          }
+        ]
+      },
+      {
+        "name": "Yume Henri",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.1.0"
+          }
+        ]
+      },
+      {
+        "name": "Yume Isac",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.Alpha"
+          }
+        ]
+      },
+      {
+        "name": "Yume Mitai",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.04"
+          }
+        ]
+      },
+      {
+        "name": "Yume Nikki 20th Anniversary Edition",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "No Version"
+          }
+        ]
+      },
+      {
+        "name": "Yume Nikki: Date Poniko",
+        "changes": [
+          {
+            "action": "Edited:",
+            "description": "Linux, Mac and Windows editions of ver.0.10 has been placed in a single folder."
+          }
+        ]
+      },
+      {
+        "name": "Yume Nikki GB (2022)",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.2.5 snapshot 1"
+          }
+        ]
+      },
+      {
+        "name": "Yume Nikki SPACE",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "No Version"
+          }
+        ]
+      },
+      {
+        "name": "Yume Nikki Version 1.00 Mod",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.00"
+          }
+        ]
+      },
+      {
+        "name": "Yume Nikki Ware",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "No Version"
+          }
+        ]
+      },
+      {
+        "name": "Yume no Kirby",
+        "changes": [
+          {
+            "action": "Edited:",
+            "description": "Renamed \"DDJ6 Version\" to \"ver.0.01\"."
+          }
+        ]
+      },
+      {
+        "name": "Yume Tsushin",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00+"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.00+a"
+          }
+        ]
+      },
+      {
+        "name": "Yume Wheeky",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.03"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "July 02, 2023",
+    "games": [
+      {
+        "name": "(not) Dream Syndrome",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.1-3"
+          }
+        ]
+      },
+      {
+        "name": "[COLD]",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.C_test"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.C"
+          }
+        ]
+      },
+      {
+        "name": "Aquarium",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00"
+          }
+        ]
+      },
+      {
+        "name": "Blooms",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.20230228"
+          }
+        ]
+      },
+      {
+        "name": "Butterfly Effect",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.0"
+          }
+        ]
+      },
+      {
+        "name": "Caged",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.01"
+          }
+        ]
+      },
+      {
+        "name": "Clouding-999",
+        "changes": [
+          {
+            "action": "Edited:",
+            "description": "The game has been renamed to \"In Hazy Clouds\"."
+          }
+        ]
+      },
+      {
+        "name": "Conexus",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.01"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.1.02"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.1.03"
+          }
+        ]
+      },
+      {
+        "name": "Corrupted",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.12"
+          }
+        ]
+      },
+      {
+        "name": "D.O.W.N",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.0.5c"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.0.5d"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.0.6a"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.0.6b"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.0.7"
+          }
+        ]
+      },
+      {
+        "name": "Dedz0ne",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.DDJ7 Edition"
+          }
+        ]
+      },
+      {
+        "name": "Down The Eye Of The Tiger",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.demo"
+          }
+        ]
+      },
+      {
+        "name": "Dream Chaser",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.0.1"
+          }
+        ]
+      },
+      {
+        "name": "Dream Diary Quest",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.003"
+          }
+        ]
+      },
+      {
+        "name": "Dream Seed",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.1.1"
+          }
+        ]
+      },
+      {
+        "name": "Dream vs Dream",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.2 (for Linux and MacOS)"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.2 (Dream ❤s Dream) (for Linux and MacOS)"
+          }
+        ]
+      },
+      {
+        "name": "Dreaming Homura",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.alpha"
+          }
+        ]
+      },
+      {
+        "name": "Dream's Deep",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.1.1"
+          }
+        ]
+      },
+      {
+        "name": "ETCETERA",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00"
+          }
+        ]
+      },
+      {
+        "name": "Everlong Swansong",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00"
+          }
+        ]
+      },
+      {
+        "name": "Flushed Regrets",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.DDJ7"
+          }
+        ]
+      },
+      {
+        "name": "For Elise",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.beta"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.DDJ7"
+          }
+        ]
+      },
+      {
+        "name": "Immersit",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.05.2"
+          }
+        ]
+      },
+      {
+        "name": "In Hazy Clouds",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.1"
+          }
+        ]
+      },
+      {
+        "name": "Jigoku Nagashi",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.Update"
+          }
+        ]
+      },
+      {
+        "name": "Me・llow",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.05+"
+          }
+        ]
+      },
+      {
+        "name": "Memories of Replica",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "Russian translation of ver.1.5.0.0."
+          }
+        ]
+      },
+      {
+        "name": "MiMiMi",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.DDJ7"
+          }
+        ]
+      },
+      {
+        "name": "Missing Memories",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.DDJ7"
+          }
+        ]
+      },
+      {
+        "name": "Mizu",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.03"
+          }
+        ]
+      },
+      {
+        "name": "moonLess*L",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.04 + patch"
+          }
+        ]
+      },
+      {
+        "name": "NEONSOMNIA",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.DDJ7"
+          }
+        ]
+      },
+      {
+        "name": "On Border",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.04"
+          }
+        ]
+      },
+      {
+        "name": "Openlid",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.DDJ7"
+          }
+        ]
+      },
+      {
+        "name": "pa-nap",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.test"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.1"
+          }
+        ]
+      },
+      {
+        "name": "Rekuiemu Nikki",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "Unknown Version"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.1.0"
+          }
+        ]
+      },
+      {
+        "name": "Remember to Remember",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00"
+          }
+        ]
+      },
+      {
+        "name": "RepresaL",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.oWo REMAKE"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.oWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"
+          }
+        ]
+      },
+      {
+        "name": "Rue",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.02"
+          }
+        ]
+      },
+      {
+        "name": "Severed Ties",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.02"
+          }
+        ]
+      },
+      {
+        "name": "Shitataru Nikki",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.DDJ7"
+          }
+        ]
+      },
+      {
+        "name": "Signature",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.DDJ7"
+          }
+        ]
+      },
+      {
+        "name": "Someday",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "Korean translation of ver.0.10+ Evergreen Edition (Revision B)."
+          },
+          {
+            "action": "Added:",
+            "version": "English translation of ver.0.10+ Evergreen Edition (Revision A)."
+          },
+          {
+            "action": "Added:",
+            "version": "English translation of ver.0.10+ Evergreen Edition (Revision B)."
+          },
+          {
+            "action": "Added:",
+            "version": "English translation of ver.0.10+ HALF-Day Edition (Revision D)."
+          },
+          {
+            "action": "Added:",
+            "version": "Korean translation of ver.0.10+ HALF-Day Edition."
+          },
+          {
+            "action": "Added:",
+            "version": "Spanish translation of ver.0.04."
+          },
+          {
+            "action": "Added:",
+            "version": "Spanish translation of ver.0.06."
+          }
+        ]
+      },
+      {
+        "name": "Sunlit",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.0"
+          }
+        ]
+      },
+      {
+        "name": "Swan Song",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00"
+          }
+        ]
+      },
+      {
+        "name": "Syndoy",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00"
+          }
+        ]
+      },
+      {
+        "name": "The Curious Case of Captain Cray",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.DDJ7"
+          }
+        ]
+      },
+      {
+        "name": "WeAreDreaming",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.01"
+          }
+        ]
+      },
+      {
+        "name": "White Desert",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.3"
+          }
+        ]
+      },
+      {
+        "name": "Wishful Thinking",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.Alpha (Remake)"
+          }
+        ]
+      },
+      {
+        "name": "You May Nick",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "No Version"
+          }
+        ]
+      },
+      {
+        "name": "Yqriel",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.4.0.a"
+          }
+        ]
+      },
+      {
+        "name": "Yume 2kki",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.096e"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.098h"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.098i"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.099"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.099c"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.099d"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.099h"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.100b"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.100c"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.103i"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.105c"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.120a"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.120b"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.120c"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.120d"
+          },
+          {
+            "action": "Added:",
+            "version": "English translation of ver.0.086e."
+          }
+        ]
+      },
+      {
+        "name": "Yume Memochou",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.2.5"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.2.6"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.2.7"
+          }
+        ]
+      },
+      {
+        "name": "Yume Mitai",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.03"
+          }
+        ]
+      },
+      {
+        "name": "Yume Nisshi",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "English translation of ver.0.05."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "February 25, 2023",
+    "games": [
+      {
+        "name": "(not) Dream Syndrome",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.1-2"
+          }
+        ]
+      },
+      {
+        "name": "(O_O)",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.01"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.02"
+          }
+        ]
+      },
+      {
+        "name": "13 Page",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.04++"
+          }
+        ]
+      },
+      {
+        "name": "An Inner Walk",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.0"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.1.0.1"
+          }
+        ]
+      },
+      {
+        "name": "Art de Reve (Sister's Dream)",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.04"
+          }
+        ]
+      },
+      {
+        "name": "Blooms",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.20221229"
+          }
+        ]
+      },
+      {
+        "name": "Brain Rot Excellence",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.Demo 1.1"
+          }
+        ]
+      },
+      {
+        "name": "D.O.W.N",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.08b"
+          }
+        ]
+      },
+      {
+        "name": "De I Cide",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.TREY (III)"
+          }
+        ]
+      },
+      {
+        "name": "Device",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.02"
+          }
+        ]
+      },
+      {
+        "name": "Dream Genie",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.2022m"
+          }
+        ]
+      },
+      {
+        "name": "Dream Wires",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.1b"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.1.2"
+          }
+        ]
+      },
+      {
+        "name": "Ex.Emi",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.9 (patch)"
+          }
+        ]
+      },
+      {
+        "name": "Hana no Chiruramu",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.02"
+          }
+        ]
+      },
+      {
+        "name": "Houchou Shoujo Gensoukyoku",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.0.0.0"
+          },
+          {
+            "action": "Added:",
+            "version": "Chinese translation of ver.1.0.0.0."
+          }
+        ]
+      },
+      {
+        "name": "Ignite",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00 (Original)"
+          }
+        ]
+      },
+      {
+        "name": "Illove Dream",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00"
+          }
+        ]
+      },
+      {
+        "name": "INSULTED",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.01"
+          }
+        ]
+      },
+      {
+        "name": "Lovely Sweet Dream",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.2.0"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.2.1"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.2.2"
+          }
+        ]
+      },
+      {
+        "name": "Me",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.01 (Remake)"
+          }
+        ]
+      },
+      {
+        "name": "Mong Jung Mong",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.4"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.1.4.1"
+          }
+        ]
+      },
+      {
+        "name": "Motherland",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.1"
+          }
+        ]
+      },
+      {
+        "name": "Muma Rope",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.2"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.4"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.5"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.6"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.7"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.9"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.11"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.12"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.13"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.14"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.15"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.16"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.17"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.18"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.19.1"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.20"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.21"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.21.2"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.22"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.23.1"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.24"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.25"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.26"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.26.1"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.27"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.28"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.29"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.30"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.30.1"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.30.2"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.30.3"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.30.4"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.30.5"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.31.1"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.31.1.3"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.31.1.4"
+          }
+        ]
+      },
+      {
+        "name": "Negaigoto",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.01"
+          }
+        ]
+      },
+      {
+        "name": "SIght",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.0"
+          }
+        ]
+      },
+      {
+        "name": "Soul Song",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "English translation of ver.0.01."
+          }
+        ]
+      },
+      {
+        "name": "Time Traveler",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.02"
+          }
+        ]
+      },
+      {
+        "name": "TRIAL",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.1.1a"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.1.7c"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.2.0f"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.4.4a"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.6.0b"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.6.0c"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.7.0a"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.7.0b"
+          }
+        ]
+      },
+      {
+        "name": "Wait for Daylight",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.alpha 0.02"
+          }
+        ]
+      },
+      {
+        "name": "WeAreDreaming",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.00 bugfix"
+          }
+        ]
+      },
+      {
+        "name": "Yume 2kki",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.119i"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.120"
+          }
+        ]
+      },
+      {
+        "name": "Yume Isac",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.Prototype"
+          }
+        ]
+      },
+      {
+        "name": "Yume Memochou",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.2.4"
+          }
+        ]
+      },
+      {
+        "name": "Yume wo Mita",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.2.00"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.2.01"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.2.02"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "December 13, 2022",
+    "games": [
+      {
+        "name": ".flow",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "English translation of ver.0.194."
+          }
+        ]
+      },
+      {
+        "name": "Art de Reve (Sister's Dream)",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.03.H"
+          }
+        ]
+      },
+      {
+        "name": "Bittersweet Dream",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.01"
+          }
+        ]
+      },
+      {
+        "name": "BRAINGIRL",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.04b"
+          }
+        ]
+      },
+      {
+        "name": "Art de Reve (Sister's Dream)",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.03"
+          }
+        ]
+      },
+      {
+        "name": "Cries of my Nightmares",
+        "changes": [
+          {
+            "action": "Removed:",
+            "version": "Misspelled Calling of my Nightingales."
+          }
+        ]
+      },
+      {
+        "name": "De I Cide",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.SICE (VI)"
+          }
+        ]
+      },
+      {
+        "name": "Dream Genie",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.7m"
+          },
+          {
+            "action": "Added:",
+            "version": "English translation of ver.0.7m."
+          }
+        ]
+      },
+      {
+        "name": "FOG",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.1.47"
+          }
+        ]
+      },
+      {
+        "name": "Ls",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.2"
+          }
+        ]
+      },
+      {
+        "name": "Marchen",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00"
+          }
+        ]
+      },
+      {
+        "name": "Muma Rope",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.32.1"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.32.1 Online Build"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.32.2"
+          }
+        ]
+      },
+      {
+        "name": "Rooftop",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "No Version"
+          }
+        ]
+      },
+      {
+        "name": "Sick Mind",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00 (Remake)"
+          }
+        ]
+      },
+      {
+        "name": "Silent Infinity",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.051"
+          }
+        ]
+      },
+      {
+        "name": "Yume 2kki",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.088b"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.094"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.094f"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.096a"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.096b"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.096c"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.097b"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.097c"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.097d"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.097f"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.097i"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.098"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.098d"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.099i"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.100a"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.100e"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.100f"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.108c"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.109g"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.119d"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.119e"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.119f"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.119g"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.119h"
+          },
+          {
+            "action": "Added:",
+            "version": "Spanish translation of ver.0.107."
+          }
+        ]
+      },
+      {
+        "name": "Yume Aruki",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.01a"
+          }
+        ]
+      },
+      {
+        "name": "Yume Memochou",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.2+7"
+          }
+        ]
+      },
+      {
+        "name": "Yume Nikki 16:9",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "Early Build"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.1.0"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.1.1"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.1.2"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.1.3"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.1.4"
+          }
+        ]
+      },
+      {
+        "name": "YumeSD",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.02"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "October 9, 2022",
+    "games": [
+      {
+        "name": "(not) Dream Syndrome",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.1-0"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.1.1-1"
+          }
+        ]
+      },
+      {
+        "name": "Art de Reve (Sister's Dream)",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.03"
+          }
+        ]
+      },
+      {
+        "name": "Attic",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00"
+          }
+        ]
+      },
+      {
+        "name": "B:(ursed",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.01+"
+          }
+        ]
+      },
+      {
+        "name": "Catabasis",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.01"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.1.03"
+          }
+        ]
+      },
+      {
+        "name": "Cesaurus",
+        "changes": [
+          {
+            "action": "Edited:",
+            "description": "Merged with Cerasus due to being the same game (my mistake, sorry)."
+          }
+        ]
+      },
+      {
+        "name": "Clouding-999",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.01"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.1.02"
+          }
+        ]
+      },
+      {
+        "name": "ColourS",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.beta 2.1"
+          }
+        ]
+      },
+      {
+        "name": "D.O.W.N",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.06b"
+          }
+        ]
+      },
+      {
+        "name": "Egnaro",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.-0.01"
+          }
+        ]
+      },
+      {
+        "name": "Ex.Emi",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.8"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.9"
+          }
+        ]
+      },
+      {
+        "name": "Fracture: The Dream",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.0.6"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.1.1.1"
+          }
+        ]
+      },
+      {
+        "name": "Gnosis",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "English translation of ver.0.01+."
+          }
+        ]
+      },
+      {
+        "name": "I Love John Wetton",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "Unknown Version"
+          }
+        ]
+      },
+      {
+        "name": "I Love John Wetton 2",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.0"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.1.1"
+          }
+        ]
+      },
+      {
+        "name": "ISO",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "DDJ6 Version (fixed again)"
+          }
+        ]
+      },
+      {
+        "name": "Mind Color",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "No Version"
+          }
+        ]
+      },
+      {
+        "name": "On Border",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.02"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.02a"
+          }
+        ]
+      },
+      {
+        "name": "psyder",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.Trial (December 4, 2021)"
+          }
+        ]
+      },
+      {
+        "name": "RepresaL",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.oWoPLUS"
+          }
+        ]
+      },
+      {
+        "name": "Saigo no Uta",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.II"
+          }
+        ]
+      },
+      {
+        "name": "Solitary",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "DDJ6 Version"
+          }
+        ]
+      },
+      {
+        "name": "Someday",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "Korean translation of ver.0.10+."
+          }
+        ]
+      },
+      {
+        "name": "Time Traveler",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.4"
+          }
+        ]
+      },
+      {
+        "name": "TRIAL",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.0.5"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.0.9"
+          }
+        ]
+      },
+      {
+        "name": "UnRequited",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.0.0"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.0.4b (ENG)"
+          }
+        ]
+      },
+      {
+        "name": "Withers",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.03"
+          }
+        ]
+      },
+      {
+        "name": "Yashin Janaru",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.2"
+          }
+        ]
+      },
+      {
+        "name": "Yume 2kki",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.080"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.081"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.081b"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.082"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.082b"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.082c"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.082d"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.083"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.083b"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.083c"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.084"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.085d"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.086"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.086b"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.086c"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.087"
+          },
+          {
+            "action": "Edited:",
+            "version": "ver.0.089b has been replaced with original archive."
+          },
+          {
+            "action": "Edited:",
+            "version": "ver.0.091c has been replaced with original archive."
+          },
+          {
+            "action": "Edited:",
+            "version": "ver.0.100i has been replaced with original archive."
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.108"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.110a"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.112h"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.112i"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.113 no wataru"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.115b"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.116g"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.116h"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.119b"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.119c"
+          }
+        ]
+      },
+      {
+        "name": "Yume Inu",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.22 Demo"
+          }
+        ]
+      },
+      {
+        "name": "Yume Memochou",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.1"
+          }
+        ]
+      },
+      {
+        "name": "Yume no Kirby",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "DDJ6 Version"
+          }
+        ]
+      },
+      {
+        "name": "Yume Walky",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "DDJ6 Version"
+          }
+        ]
+      },
+      {
+        "name": "Yume wo Mita",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.01"
+          }
+        ]
+      },
+      {
+        "name": "Reach",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "July 3, 2022",
+    "games": [
+      {
+        "name": ".flow",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.193"
+          },
+          {
+            "action": "Removed:",
+            "version": "ver.0.09 - mislabelled ver.0.15."
+          }
+        ]
+      },
+      {
+        "name": "Art de Reve (Sister's Dream)",
+        "changes": [
+          {
+            "action": "Edited:",
+            "version": "ver.0.01.1 was actually ver.0.02"
+          }
+        ]
+      },
+      {
+        "name": "[COLD]",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.DEMO"
+          }
+        ]
+      },
+      {
+        "name": "Any.One Online",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "DDJ6 Version"
+          }
+        ]
+      },
+      {
+        "name": "B:(ursed",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.proto"
+          }
+        ]
+      },
+      {
+        "name": "Bittersweet Dream",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00"
+          }
+        ]
+      },
+      {
+        "name": "Bokehme",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.2.0"
+          }
+        ]
+      },
+      {
+        "name": "Clouding-999",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.0"
+          }
+        ]
+      },
+      {
+        "name": "ColourS",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.beta2"
+          }
+        ]
+      },
+      {
+        "name": "D.O.W.N",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.01"
+          }
+        ]
+      },
+      {
+        "name": "Dawn of Dreams",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.2.0"
+          }
+        ]
+      },
+      {
+        "name": "Deteriation Game",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "DDJ6 Version"
+          }
+        ]
+      },
+      {
+        "name": "Dream Diary Quest",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.002"
+          }
+        ]
+      },
+      {
+        "name": "Dream Records",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "DDJ6 Version"
+          }
+        ]
+      },
+      {
+        "name": "Equinox",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00"
+          }
+        ]
+      },
+      {
+        "name": "Fracture: The Dream",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.2.2"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.1.0.3"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.1.0.4"
+          }
+        ]
+      },
+      {
+        "name": "Immersit",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.05"
+          }
+        ]
+      },
+      {
+        "name": "Internal Plexus",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "DDJ6 Version"
+          }
+        ]
+      },
+      {
+        "name": "ISO",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "DDJ6 Version"
+          },
+          {
+            "action": "Added:",
+            "description": "DDJ6 Version (fixed)"
+          }
+        ]
+      },
+      {
+        "name": "Kataribesou ~Ensouki~",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "English translation of ver.0.6."
+          },
+          {
+            "action": "Added:",
+            "version": "Korean translation of ver.0.6."
+          }
+        ]
+      },
+      {
+        "name": "Marchen",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "DDJ6 Version"
+          }
+        ]
+      },
+      {
+        "name": "Memorial Playground",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.12"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.20"
+          }
+        ]
+      },
+      {
+        "name": "Moonday",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.37.8"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.38"
+          }
+        ]
+      },
+      {
+        "name": "Note Dream",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.00a"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.00b"
+          }
+        ]
+      },
+      {
+        "name": "Noumena",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.Demo"
+          }
+        ]
+      },
+      {
+        "name": "Okami no Yume",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "DDJ6 Version"
+          },
+          {
+            "action": "Added:",
+            "description": "DDJ6 Version (bugfix)"
+          }
+        ]
+      },
+      {
+        "name": "On Border",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.01"
+          }
+        ]
+      },
+      {
+        "name": "Re:Vessel",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.1.7"
+          }
+        ]
+      },
+      {
+        "name": "Severed Ties",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.01"
+          }
+        ]
+      },
+      {
+        "name": "Skwampt",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.0.0a DDJ6"
+          }
+        ]
+      },
+      {
+        "name": "Somnium Angelus",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "DDJ6 Version"
+          }
+        ]
+      },
+      {
+        "name": "Sunlit",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.02"
+          }
+        ]
+      },
+      {
+        "name": "Tertianoumenon",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.1"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.1 (fixed saves)"
+          }
+        ]
+      },
+      {
+        "name": "The Foxglove Catcher",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.0"
+          }
+        ]
+      },
+      {
+        "name": "They are Confined",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "DDJ6 Version"
+          }
+        ]
+      },
+      {
+        "name": "Unduhagge",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.2"
+          }
+        ]
+      },
+      {
+        "name": "World in a Moment",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "DDJ6 Version"
+          }
+        ]
+      },
+      {
+        "name": "Yashin Janaru",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1"
+          }
+        ]
+      },
+      {
+        "name": "YOU BOUND",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "DDJ6 Version"
+          }
+        ]
+      },
+      {
+        "name": "Yume 2kki",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.109h"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.118h"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.118i"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.119"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.119a"
+          },
+          {
+            "action": "Added:",
+            "version": "English translation of ver.0.100a."
+          }
+        ]
+      },
+      {
+        "name": "Yume Fumi",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.07 Last Version (Bugfix 4.0)"
+          }
+        ]
+      },
+      {
+        "name": "Yume Shikki",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.4.0.4"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.4.0.5"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.4.0.6"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.4.1.7.3"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.4.7.2"
+          },
+          {
+            "action": "Added:",
+            "description": "final version"
+          },
+          {
+            "action": "Added:",
+            "description": "Unknown Version"
+          }
+        ]
+      },
+      {
+        "name": "Yume Wheeky",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.02"
+          }
+        ]
+      },
+      {
+        "name": "Reach",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "May 15, 2022",
+    "games": [
+      {
+        "name": "(not) Dream Syndrome",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.0-0"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.1.0-1"
+          }
+        ]
+      },
+      {
+        "name": ".flow",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00.4"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.00.5"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.07"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.09"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.17"
+          },
+          {
+            "action": "Added:",
+            "version": "English translation of ver.0.194 (EN Patch v200818)"
+          }
+        ]
+      },
+      {
+        "name": "Alien Flowers",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.2.0"
+          }
+        ]
+      },
+      {
+        "name": "Art de Reve",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.01"
+          }
+        ]
+      },
+      {
+        "name": "Cesaurus",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.Seed"
+          }
+        ]
+      },
+      {
+        "name": "Cirrus",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.01b"
+          }
+        ]
+      },
+      {
+        "name": "ColourS",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.beta"
+          }
+        ]
+      },
+      {
+        "name": "Cries of my Nightmares",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "Jam Version"
+          }
+        ]
+      },
+      {
+        "name": "Deep Dreams",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.03a"
+          }
+        ]
+      },
+      {
+        "name": "Dream?",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.06"
+          }
+        ]
+      },
+      {
+        "name": "Farewell",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.04"
+          }
+        ]
+      },
+      {
+        "name": "Fleshchild",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00"
+          }
+        ]
+      },
+      {
+        "name": "Growth",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.001"
+          }
+        ]
+      },
+      {
+        "name": "Hallucigenia",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.007"
+          }
+        ]
+      },
+      {
+        "name": "I Cannot Drown",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.02.1"
+          }
+        ]
+      },
+      {
+        "name": "Kataribesou ~Ensouki~",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.5"
+          }
+        ]
+      },
+      {
+        "name": "MILK",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "DDJ3 Version"
+          }
+        ]
+      },
+      {
+        "name": "Miserere",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.04"
+          }
+        ]
+      },
+      {
+        "name": "Mong Jung Mong",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "English translation of ver.1.4.2 (Revision C)."
+          }
+        ]
+      },
+      {
+        "name": "Moonlight",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00"
+          }
+        ]
+      },
+      {
+        "name": "Mugamuchuu",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.002"
+          }
+        ]
+      },
+      {
+        "name": "My Favorite",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.01"
+          }
+        ]
+      },
+      {
+        "name": "Oblivion",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00+"
+          }
+        ]
+      },
+      {
+        "name": "Outotsu Yume",
+        "changes": [
+          {
+            "action": "Edited:",
+            "description": "Merged with Uneven Dream."
+          }
+        ]
+      },
+      {
+        "name": "ShamaL",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.03"
+          }
+        ]
+      },
+      {
+        "name": "soto nemuri",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.Prototype"
+          }
+        ]
+      },
+      {
+        "name": "Strange Memo",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.7"
+          }
+        ]
+      },
+      {
+        "name": "The Other Line",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.05"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.06"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.07"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.08"
+          }
+        ]
+      },
+      {
+        "name": "Traumruf",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "Unknown Version"
+          }
+        ]
+      },
+      {
+        "name": "Ultra Violet",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.01"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.02"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.03"
+          }
+        ]
+      },
+      {
+        "name": "Uneven Dream",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.04"
+          }
+        ]
+      },
+      {
+        "name": "Wait for Daylight",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.Alpha 0.01"
+          }
+        ]
+      },
+      {
+        "name": "Yume 2kki",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.099f"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.105a"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.108i"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.115"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.116i"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.118e"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.118f"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.118g"
+          }
+        ]
+      },
+      {
+        "name": "Yume Aruki",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.01b"
+          }
+        ]
+      },
+      {
+        "name": "Yume Graffiti",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.02"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.03"
+          }
+        ]
+      },
+      {
+        "name": "Yume Mitai",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.01"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.01++"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.02"
+          }
+        ]
+      },
+      {
+        "name": "Yume Niggy",
+        "changes": [
+          {
+            "action": "Added:",
+            "description": "No Version"
+          }
+        ]
+      },
+      {
+        "name": "Yume Nikki 3d",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.02 + DLC Isolated"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.Alpha"
+          }
+        ]
+      },
+      {
+        "name": "Yume Nikki Version 1.00 Mod",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.00"
+          }
+        ]
+      },
+      {
+        "name": "Yume Tagai",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.01+"
+          }
+        ]
+      },
+      {
+        "name": "Yume, Shosen Mousou",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "April 3, 2022",
+    "games": [
+      {
+        "name": "(not) Dream Syndrome",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.2.0"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.2.0 BGM Patch"
+          }
+        ]
+      },
+      {
+        "name": "Art de Reve (Sister's Dream)",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.01.1"
+          }
+        ]
+      },
+      {
+        "name": "Immersit",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.04"
+          }
+        ]
+      },
+      {
+        "name": "Natsumi Kokochi",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.3.00"
+          }
+        ]
+      },
+      {
+        "name": "Yume 2kki",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.118d"
+          }
+        ]
+      },
+      {
+        "name": "Yume Mitai",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "March 25, 2022 (Initial Release)",
+    "games": []
+  }
+]

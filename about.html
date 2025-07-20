@@ -1,49 +1,125 @@
-<html>
-	<head>
-		<title>Yumebooru: About Archive</title>
-        <meta charset="utf8">
-        <meta name="description" content="Learn more about Yume Nikki Fangames Archive.">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<link rel="shortcut icon" type="image/png" href="favicon.png">
-		<link rel="stylesheet" href="index.css">
-		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
-		<!-- Google tag (gtag.js) -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=G-JTWB5S752W"></script>
-		<script>
-			window.dataLayer = window.dataLayer || [];
-			function gtag(){dataLayer.push(arguments);}
-			gtag('js', new Date());
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="Learn more about Yume Nikki Fangames Archive.">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Yumebooru: About Archive</title>
+    <link rel="shortcut icon" type="image/png" href="img/favicon.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
+    <link rel="stylesheet" href="css/style.css"/>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-JTWB5S752W"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
 
-			gtag('config', 'G-JTWB5S752W');
-		</script>
-	</head>
-	<body>
-		<header>
-			<p class="nav">
-				<a href="https://archive.yumeboo.ru/">Home</a>
-				<a href="/submit/">Submit Missing Game/Translation</a>
-				<a href="/changelog/">Archive Changelog</a>
-				<a href="/contributors/">Contributors</a>
-				<a href="/about/">About</a>
-				<a href="/play/">Play Online</a>
-                <a href="https://discord.gg/9q28JXGA3A">Discord</a>
-				<a href="https://yumeboo.ru/">Yumebooru</a>
-			</p>
-		</header>
-		<main>
-			<p class="title">About the Yume Nikki Fangames Archive</p>
-			<section>
-				<p>This Yume Nikki Fangames archive is a continuation of the old, no longer available <a href="https://yumenikkifgarchive.gitlab.io">Yume Nikki Fangames archive</a>, which was originally formed shortly after the announcement of YUMENIKKI -DREAM DIARY- and selling the publishing rights of Yume Nikki to Playism, due to the possibility of Yume Nikki fangames being taken down.</p>
-				<p>Right now, the purpose of Yume Nikki Fangames archive is to preserve Yume Nikki Fangames and their history of development for everyone to enjoy.</p>
-				<p class="subtitle">Contact</p>
-				<p><a href="mailto:admin@yumeboo.ru">E-mail.</a></p>
-				<p><a href="https://discord.gg/9q28JXGA3A">Discord server.</a></p>
-				<p class="subtitle">Take down my fangame!</p>
-				<p>We will not take down your fangame, unless you provide us with a good reason.</p>
-				<p>Example of good reasons: leaked personal information, malware, any other kind of virus infection.</p>
-				<p>Example of bad reasons: the game is bad, wanting the game to be removed from the internet.</p>
-				<p>After providing us with a good reason, offending files will be removed in the next public update to the archive.</p>
-			</section>
-		</main>
-	</body>
+      gtag('config', 'G-JTWB5S752W');
+    </script>
+  </head>
+  <body>
+    <header>
+      <button id="menu-btn" class="btn" aria-label="Open navigation menu" aria-expanded="false" aria-controls="side-menu">
+        <i class="fas fa-bars"></i>
+      </button>
+      <button id="theme-toggle-btn" class="btn" aria-label="Toggle light/dark theme">
+        <i class="fas fa-moon"></i>
+      </button>
+    </header>
+    <nav id="side-menu" aria-label="Primary navigation">
+      <a href="index.html"><i class="fas fa-home"></i> Home</a>
+      <a href="changelog.html"><i class="fas fa-clock"></i> Changelog</a>
+      <a href="play.html" class="active"><i class="fas fa-play"></i> Play Online</a>
+      <a href="about.html"><i class="fas fa-info-circle"></i> About</a>
+    </nav>
+    <main class="about">
+      <h1>About Yume Nikki Fangames Archive</h1>
+      <section class="about-info">
+        <p>
+          This Yume Nikki Fangames archive is a continuation of the old, 
+          no longer available <a href="https://yumenikkifgarchive.gitlab.io/">
+          Yume Nikki Fangames Archive</a>, which was originally 
+          formed shortly after the announcement of YUMENIKKI -DREAM DIARY- 
+          and selling the publishing rights of Yume Nikki to Playism, due to 
+          the possibility of Yume Nikki fangames being taken down.
+        </p>
+        <p>
+          Right now, the purpose of Yume Nikki Fangames archive is to 
+          preserve Yume Nikki Fangames and their history of development for 
+          everyone to enjoy.
+        </p>
+      </section>
+      <section class="faq">
+        <h2>Sort of, kinda FAQ, I guess...?</h2>
+        <dl>
+          <dt>How to submit a game or translation?</dt>
+          <dd>
+            First, make sure that the game you are submitting is not already available 
+            in the archive, or is already going to be added in the next archive update.
+          </dd>
+          <dd>
+            Second, send an e-mail containing the name of the fangame, the version number 
+            (if there is one), the original language the fangame was made in, the 
+            language it has been translated to (if you are submitting a fan translation), 
+            and the download link. It is also worth sending any documentation about 
+            the game, such as links to wiki articles about the game or the game's 
+            official website.
+          </dd>
+          <dd>
+            We will then verify that the files you sent are correct and add them 
+            into the next archive update.
+          </dd>
+          <dt>Take down my fangame!</dt>
+          <dd>
+            We will not take down your fangame, unless you provide us with a good reason.<br>
+            Example of good reasons: leaked personal information, malware, any other 
+            kind of virus infection.<br>
+            Example of bad reasons: the game is bad, wanting the game to be removed 
+            from the internet.<br>
+            After providing us with a good reason, offending files will be removed 
+            in the next public update to the archive.
+          </dd>
+        </dl>
+      </section>
+      <section class="contributors">
+        <h2>Contributors</h2>
+        <p>
+          Here are the heroes who has contributed to the archive. Everyone 
+          should know and remember them.
+        </p>
+        <ul>
+          <li>Ghabry</li>
+          <li>Saturn (also known as pinkuboa)</li>
+          <li>doodlgirl863</li>
+          <li>nrfs</li>
+          <li>john.johnmann</li>
+          <li>puckish</li>
+          <li>Fae_Wandered</li>
+        </ul>
+      </section>
+      <section class="contact">
+        <h2>Contact</h2>
+        <p>
+          Email: <a href="mailto:admin@yumeboo.ru">admin@yumeboo.ru</a><br/>
+          Discord: <a href="https://discord.gg/9q28JXGA3A" target="_blank" rel="noopener">https://discord.gg/9q28JXGA3A</a>
+        </p>
+      </section>
+    </main>
+    <footer>
+      <a href="https://yumeboo.ru" target="_blank" rel="noopener noreferrer" aria-label="Yumebooru">
+        <i class="fas fa-globe"></i>
+      </a>
+      <a href="https://discord.gg/9q28JXGA3A" target="_blank" rel="noopener noreferrer" aria-label="Discord Server">
+        <i class="fab fa-discord"></i>
+      </a>
+      <a href="https://twitter.com/yumebooru" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
+        <i class="fab fa-twitter"></i>
+      </a>
+      <a href="mailto:admin@yumeboo.ru" aria-label="Send Email">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </footer>
+    <script src="js/script.js"></script>
+  </body>
 </html>
