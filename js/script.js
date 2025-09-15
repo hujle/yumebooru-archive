@@ -1,23 +1,28 @@
-const THEME_KEY = 'site-theme';
+const THEME_KEY         = 'site-theme';
 const MENU_TRANSITION_MS = 300;
+
 const menuBtn        = document.getElementById('menu-btn');
 const sideMenu       = document.getElementById('side-menu');
 const themeToggleBtn = document.getElementById('theme-toggle-btn');
-const body           = document.body;
+const root           = document.documentElement;
 
-window.addEventListener('DOMContentLoaded', () => {
+(function() {
   const savedTheme = localStorage.getItem(THEME_KEY);
-  if (savedTheme === 'light') {
-    body.classList.add('light');
+  const isLight    = savedTheme === 'light';
+
+  if (isLight) {
+    root.classList.add('light');
     themeToggleBtn.innerHTML = '<i class="fas fa-sun"></i>';
   } else {
-    body.classList.remove('light');
+    root.classList.remove('light');
     themeToggleBtn.innerHTML = '<i class="fas fa-moon"></i>';
   }
+})();
 
+window.addEventListener('DOMContentLoaded', () => {
   themeToggleBtn.addEventListener('click', e => {
     e.stopPropagation();
-    const isLight = body.classList.toggle('light');
+    const isLight = root.classList.toggle('light');
     localStorage.setItem(THEME_KEY, isLight ? 'light' : 'dark');
     themeToggleBtn.innerHTML = isLight
       ? '<i class="fas fa-sun"></i>'
@@ -60,10 +65,14 @@ window.addEventListener('DOMContentLoaded', () => {
 
 function openMenu() {
   sideMenu.classList.add('active');
-  requestAnimationFrame(() => sideMenu.classList.add('open'));
+  requestAnimationFrame(() => {
+    sideMenu.classList.add('open');
+  });
 }
 
 function closeMenu() {
   sideMenu.classList.remove('open');
-  setTimeout(() => sideMenu.classList.remove('active'), MENU_TRANSITION_MS)
+  setTimeout(() => {
+    sideMenu.classList.remove('active');
+  }, MENU_TRANSITION_MS);
 }
