@@ -1,70 +1,70 @@
-const menuBtn = document.getElementById('menu-btn');
-const sideMenu = document.getElementById('side-menu');
-const themeToggleBtn = document.getElementById('theme-toggle-btn');
-const body = document.body;
-
+const THEME_KEY          = 'site-theme';
 const MENU_TRANSITION_MS = 300;
+const htmlEl             = document.documentElement;
 
-// Function to open menu
-function openMenu() {
-  sideMenu.classList.add('active');
-  requestAnimationFrame(() => {
-    sideMenu.classList.add('open');
-  });
-}
+window.addEventListener('DOMContentLoaded', () => {
+  const menuBtn        = document.getElementById('menu-btn');
+  const sideMenu       = document.getElementById('side-menu');
+  const themeToggleBtn = document.getElementById('theme-toggle-btn');
+  const dropdown       = document.querySelector('.dropdown');
 
-// Function to close menu
-function closeMenu() {
-  sideMenu.classList.remove('open');
-  setTimeout(() => {
-    sideMenu.classList.remove('active');
-  }, MENU_TRANSITION_MS);
-}
+  if (themeToggleBtn) {
+    const isLight = htmlEl.classList.contains('light');
+    themeToggleBtn.innerHTML = isLight
+      ? '<i class="fas fa-sun"></i>'
+      : '<i class="fas fa-moon"></i>';
 
-// Toggle side menu on button click
-menuBtn.addEventListener('click', (e) => {
-  e.stopPropagation(); // не дать событию всплыть дальше
-  if (sideMenu.classList.contains('open')) {
-    closeMenu();
-  } else {
-    openMenu();
+    themeToggleBtn.addEventListener('click', e => {
+      e.stopPropagation();
+      const nowLight = htmlEl.classList.toggle('light');
+      localStorage.setItem(THEME_KEY, nowLight ? 'light' : 'dark');
+      themeToggleBtn.innerHTML = nowLight
+        ? '<i class="fas fa-sun"></i>'
+        : '<i class="fas fa-moon"></i>';
+    });
   }
-});
 
-// Close menu on click outside
-document.addEventListener('click', (e) => {
-  if (
-    sideMenu.classList.contains('open') &&
-    !sideMenu.contains(e.target) &&
-    e.target !== menuBtn &&
-    !menuBtn.contains(e.target)
-  ) {
-    closeMenu();
+  if (menuBtn && sideMenu) {
+    menuBtn.addEventListener('click', e => {
+      e.stopPropagation();
+      sideMenu.classList.contains('open') ? closeMenu() : openMenu();
+    });
+
+    document.addEventListener('click', e => {
+      if (
+        sideMenu.classList.contains('open') &&
+        !sideMenu.contains(e.target) &&
+        !menuBtn.contains(e.target)
+      ) {
+        closeMenu();
+      }
+    });
   }
-});
 
-// Toggle theme
-themeToggleBtn.addEventListener('click', (e) => {
-  e.stopPropagation();
-  const isLight = body.classList.toggle('light');
-  themeToggleBtn.innerHTML = isLight
-    ? '<i class="fas fa-sun"></i>'
-    : '<i class="fas fa-moon"></i>';
-});
-
-// Dropdown logic
-document.addEventListener('DOMContentLoaded', () => {
-  const dropdown = document.querySelector('.dropdown');
-  const toggleBtn = dropdown.querySelector('.dropdown-toggle');
-
-  toggleBtn.addEventListener('click', (e) => {
-    e.stopPropagation();
-    dropdown.classList.toggle('open');
-  });
-
-  document.addEventListener('click', (e) => {
-    if (!dropdown.contains(e.target)) {
-      dropdown.classList.remove('open');
+  if (dropdown) {
+    const toggleBtn = dropdown.querySelector('.dropdown-toggle');
+    if (toggleBtn) {
+      toggleBtn.addEventListener('click', e => {
+        e.stopPropagation();
+        dropdown.classList.toggle('open');
+      });
     }
-  });
+    document.addEventListener('click', e => {
+      if (!dropdown.contains(e.target)) {
+        dropdown.classList.remove('open');
+      }
+    });
+  }
 });
+
+function openMenu() {
+  const sideMenu = document.getElementById('side-menu');
+  sideMenu.classList.add('active');
+  requestAnimationFrame(() => sideMenu.classList.add('open'));
+}
+
+function closeMenu() {
+  const sideMenu = document.getElementById('side-menu');
+  sideMenu.classList.remove('open');
+  setTimeout(() => sideMenu.classList.remove('active'), MENU_TRANSITION_MS);
+}
