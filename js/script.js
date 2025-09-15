@@ -22,7 +22,7 @@ function closeMenu() {
 }
 
 // Toggle side menu on button click
-menuBtn.addEventListener('click', e => {
+menuBtn.addEventListener('click', (e) => {
   e.stopPropagation(); // не дать событию всплыть дальше
   if (sideMenu.classList.contains('open')) {
     closeMenu();
@@ -32,7 +32,7 @@ menuBtn.addEventListener('click', e => {
 });
 
 // Close menu on click outside
-document.addEventListener('click', e => {
+document.addEventListener('click', (e) => {
   if (
     sideMenu.classList.contains('open') &&
     !sideMenu.contains(e.target) &&
@@ -44,7 +44,7 @@ document.addEventListener('click', e => {
 });
 
 // Toggle theme
-themeToggleBtn.addEventListener('click', e => {
+themeToggleBtn.addEventListener('click', (e) => {
   e.stopPropagation();
   const isLight = body.classList.toggle('light');
   themeToggleBtn.innerHTML = isLight
@@ -57,12 +57,12 @@ document.addEventListener('DOMContentLoaded', () => {
   const dropdown = document.querySelector('.dropdown');
   const toggleBtn = dropdown.querySelector('.dropdown-toggle');
 
-  toggleBtn.addEventListener('click', e => {
+  toggleBtn.addEventListener('click', (e) => {
     e.stopPropagation();
     dropdown.classList.toggle('open');
   });
 
-  document.addEventListener('click', e => {
+  document.addEventListener('click', (e) => {
     if (!dropdown.contains(e.target)) {
       dropdown.classList.remove('open');
     }
