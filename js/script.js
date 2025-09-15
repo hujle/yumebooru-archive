@@ -1,73 +1,70 @@
-const THEME_KEY          = 'site-theme';
+const menuBtn = document.getElementById('menu-btn');
+const sideMenu = document.getElementById('side-menu');
+const themeToggleBtn = document.getElementById('theme-toggle-btn');
+const body = document.body;
+
 const MENU_TRANSITION_MS = 300;
 
-const menuBtn        = document.getElementById('menu-btn');
-const sideMenu       = document.getElementById('side-menu');
-const themeToggleBtn = document.getElementById('theme-toggle-btn');
-const htmlEl         = document.documentElement;
+// Function to open menu
+function openMenu() {
+  sideMenu.classList.add('active');
+  requestAnimationFrame(() => {
+    sideMenu.classList.add('open');
+  });
+}
 
-(function applySavedTheme() {
-  try {
-    if (localStorage.getItem(THEME_KEY) === 'light') {
-      htmlEl.classList.add('light');
-    }
-  } catch (e) {}
-})();
+// Function to close menu
+function closeMenu() {
+  sideMenu.classList.remove('open');
+  setTimeout(() => {
+    sideMenu.classList.remove('active');
+  }, MENU_TRANSITION_MS);
+}
 
-window.addEventListener('DOMContentLoaded', () => {
-  if (htmlEl.classList.contains('light')) {
-    themeToggleBtn.innerHTML = '<i class="fas fa-sun"></i>';
+// Toggle side menu on button click
+menuBtn.addEventListener('click', (e) => {
+  e.stopPropagation(); // не дать событию всплыть дальше
+  if (sideMenu.classList.contains('open')) {
+    closeMenu();
   } else {
-    themeToggleBtn.innerHTML = '<i class="fas fa-moon"></i>';
-  }
-
-  themeToggleBtn.addEventListener('click', e => {
-    e.stopPropagation();
-    const isLight = htmlEl.classList.toggle('light');
-    localStorage.setItem(THEME_KEY, isLight ? 'light' : 'dark');
-    themeToggleBtn.innerHTML = isLight
-      ? '<i class="fas fa-sun"></i>'
-      : '<i class="fas fa-moon"></i>';
-  });
-
-  menuBtn.addEventListener('click', e => {
-    e.stopPropagation();
-    sideMenu.classList.contains('open') ? closeMenu() : openMenu();
-  });
-
-  document.addEventListener('click', e => {
-    if (
-      sideMenu.classList.contains('open') &&
-      !sideMenu.contains(e.target) &&
-      !menuBtn.contains(e.target)
-    ) {
-      closeMenu();
-    }
-  });
-
-  const dropdown = document.querySelector('.dropdown');
-  if (dropdown) {
-    const toggleBtn = dropdown.querySelector('.dropdown-toggle');
-    if (toggleBtn) {
-      toggleBtn.addEventListener('click', e => {
-        e.stopPropagation();
-        dropdown.classList.toggle('open');
-      });
-    }
-    document.addEventListener('click', e => {
-      if (!dropdown.contains(e.target)) {
-        dropdown.classList.remove('open');
-      }
-    });
+    openMenu();
   }
 });
 
-function openMenu() {
-  sideMenu.classList.add('active');
-  requestAnimationFrame(() => sideMenu.classList.add('open'));
-}
+// Close menu on click outside
+document.addEventListener('click', (e) => {
+  if (
+    sideMenu.classList.contains('open') &&
+    !sideMenu.contains(e.target) &&
+    e.target !== menuBtn &&
+    !menuBtn.contains(e.target)
+  ) {
+    closeMenu();
+  }
+});
 
-function closeMenu() {
-  sideMenu.classList.remove('open');
-  setTimeout(() => sideMenu.classList.remove('active'), MENU_TRANSITION_MS);
-}
+// Toggle theme
+themeToggleBtn.addEventListener('click', (e) => {
+  e.stopPropagation();
+  const isLight = body.classList.toggle('light');
+  themeToggleBtn.innerHTML = isLight
+    ? '<i class="fas fa-sun"></i>'
+    : '<i class="fas fa-moon"></i>';
+});
+
+// Dropdown logic
+document.addEventListener('DOMContentLoaded', () => {
+  const dropdown = document.querySelector('.dropdown');
+  const toggleBtn = dropdown.querySelector('.dropdown-toggle');
+
+  toggleBtn.addEventListener('click', (e) => {
+    e.stopPropagation();
+    dropdown.classList.toggle('open');
+  });
+
+  document.addEventListener('click', (e) => {
+    if (!dropdown.contains(e.target)) {
+      dropdown.classList.remove('open');
+    }
+  });
+});

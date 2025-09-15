@@ -30,7 +30,7 @@ body {
   transition: background-color 0.3s ease, color 0.3s ease;
   overflow-x: hidden;
 }
-html.light {
+body.light {
   background-color: var(--bg-light);
   color: var(--text-light);
 }
@@ -43,7 +43,7 @@ header {
   box-shadow: 0 2px 5px rgba(0,0,0,0.7);
   z-index: 1001;
 }
-html.light header {
+body.light header {
   background-color: var(--menu-bg-light);
   box-shadow: 0 2px 5px rgba(0,0,0,0.15);
 }
@@ -74,7 +74,7 @@ nav#side-menu {
   display: flex; flex-direction: column;
   z-index: 1000;
 }
-html.light nav#side-menu {
+body.light nav#side-menu {
   background-color: var(--menu-bg-light);
 }
 nav#side-menu.active {
@@ -95,11 +95,11 @@ nav#side-menu a {
 nav#side-menu a:hover {
   background-color: var(--gray-700);
 }
-html.light nav#side-menu a {
+body.light nav#side-menu a {
   color: var(--text-light);
   border-bottom: 1px solid var(--gray-300);
 }
-html.light nav#side-menu a:hover {
+body.light nav#side-menu a:hover {
   background-color: var(--gray-300);
 }
 main {
@@ -116,7 +116,7 @@ footer {
   color: var(--gray-500);
   border-top: 1px solid var(--gray-700);
 }
-html.light footer {
+body.light footer {
   background-color: var(--menu-bg-light);
   color: var(--gray-700);
   border-top: 1px solid var(--gray-300);
@@ -131,7 +131,7 @@ footer a {
 footer a:hover {
   color: var(--text-dark);
 }
-html.light footer a:hover {
+body.light footer a:hover {
   color: var(--text-light);
 }
   
@@ -150,14 +150,14 @@ main.home h1 {
   font-size: 2.5rem;
   margin-bottom: 0.25rem;
 }
-html.light main.home h1 {
+body.light main.home h1 {
   color: var(--text-light);
 }
 main.home .last-update {
   font-size: 1rem;
   color: var(--gray-500);
 }
-html.light main.home .last-update {
+body.light main.home .last-update {
   color: var(--gray-700);
 }
 *, *::before, *::after {  /* DL LINKS GRID AND DROPDOWN */
@@ -196,8 +196,8 @@ html.light main.home .last-update {
   border-radius: 4px;
   cursor: pointer;
 }
-html.light .grid-container a,
-html.light .grid-container .dropdown-toggle {
+body.light .grid-container a,
+body.light .grid-container .dropdown-toggle {
   background-color: var(--gray-100);
   color: var(--text-light);
 }
@@ -230,11 +230,11 @@ html.light .grid-container .dropdown-toggle {
   color: var(--text-dark);
   text-decoration: none;
 }
-html.light .dropdown-menu {
+body.light .dropdown-menu {
   background-color: var(--gray-100);
   border-color: var(--gray-300);
 }
-html.light .dropdown-menu a {
+body.light .dropdown-menu a {
   color: var(--text-light);
 }
 
@@ -255,7 +255,7 @@ main.changelog h1 {
   margin-bottom: 0.25rem;
   color: var(--text-dark);
 }
-html.light main.changelog h1 {
+body.light main.changelog h1 {
   color: var(--text-light);
 }
 .changelog {
@@ -271,7 +271,7 @@ html.light main.changelog h1 {
   overflow: hidden;
   transition: background-color 0.3s ease, border-color 0.3s ease;
 }
-html.light .entry {
+body.light .entry {
   background-color: var(--gray-100);
   border: 1px solid var(--gray-300);
 }
@@ -281,7 +281,7 @@ html.light .entry {
   background-color: var(--menu-bg-dark);
   cursor: pointer;
 }
-html.light .entry-header {
+body.light .entry-header {
   background-color: var(--menu-bg-light);
 }
 .entry-header h2 {
@@ -289,14 +289,14 @@ html.light .entry-header {
   font-size: 1.1rem;
   color: var(--text-dark);
 }
-html.light .entry-header h2 {
+body.light .entry-header h2 {
   color: var(--text-light);
 }
 .entry-header .toggle-icon {
   color: var(--text-dark);
   transition: transform 0.3s ease;
 }
-html.light .entry-header .toggle-icon {
+body.light .entry-header .toggle-icon {
   color: var(--text-light);
 }
 .entry-header.collapsed .toggle-icon {
@@ -321,7 +321,7 @@ html.light .entry-header .toggle-icon {
   border-bottom: 1px solid var(--gray-700);
   border-right: 1px solid var(--gray-700);
 }
-html.light .changes-cell {
+body.light .changes-cell {
   border-color: var(--gray-300);
 }
 .changes-row:last-child .changes-cell {
@@ -335,7 +335,7 @@ html.light .changes-cell {
   font-weight: 600;
   color: var(--text-dark);
 }
-html.light .cell-name {
+body.light .cell-name {
   color: var(--text-light);
 }
 .cell-changes ul {
@@ -346,7 +346,7 @@ html.light .cell-name {
   margin: 0.25rem 0;
   color: var(--text-dark);
 }
-html.light .cell-changes ul li {
+body.light .cell-changes ul li {
   color: var(--text-light);
 }
 
@@ -369,7 +369,7 @@ main.about h1 {
   margin-bottom: 2rem;
   color: var(--text-dark);
 }
-html.light main.about h1 {
+body.light main.about h1 {
   color: var(--text-light);
 }
 main.about h2 {
@@ -378,7 +378,7 @@ main.about h2 {
   margin: 2rem 0 1rem;
   color: var(--text-dark);
 }
-html.light main.about h2 {
+body.light main.about h2 {
   color: var(--text-light);
 }
 main.about p,
@@ -389,9 +389,9 @@ main.about dd {
   margin-bottom: 1rem;
   color: var(--text-dark);
 }
-html.light main.about p,
-html.light main.about li,
-html.light main.about dd {
+body.light main.about p,
+body.light main.about li,
+body.light main.about dd {
   color: var(--text-light);
 }
 .faq dl dt {
@@ -416,7 +416,7 @@ html.light main.about dd {
   font-weight: 500;
   color: var(--text-dark);
 }
-html.light .contact a {
+body.light .contact a {
   color: var(--text-light);
 }
 
@@ -436,7 +436,7 @@ main.play h1 {
   margin-bottom: 1rem;
   color: var(--text-dark);
 }
-html.light main.play h1 {
+body.light main.play h1 {
   color: var(--text-light);
 }
 main.play .intro {
@@ -444,7 +444,7 @@ main.play .intro {
   margin-bottom: 1.5rem;
   color: var(--gray-500);
 }
-html.light main.play .intro {
+body.light main.play .intro {
   color: var(--gray-700);
 }
 #search {
@@ -460,7 +460,7 @@ html.light main.play .intro {
   border: 1px solid var(--gray-700);
   border-radius: 4px;
 }
-html.light #search {
+body.light #search {
   background-color: var(--gray-100);
   color: var(--text-light);
   border-color: var(--gray-300);
@@ -498,13 +498,13 @@ html.light #search {
   transform: translateY(-4px);
   box-shadow: 0 4px 12px rgba(0,0,0,0.7);
 }
-html.light .game-card {
+body.light .game-card {
   background-color: var(--gray-100);
   color: var(--text-light);
   box-shadow: 0 2px 8px rgba(0,0,0,0.15);
 }
 
-html.light .game-card:hover {
+body.light .game-card:hover {
   box-shadow: 0 4px 12px rgba(0,0,0,0.2);
 }   
 
