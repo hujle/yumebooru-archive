@@ -1,9 +1,10 @@
-const THEME_KEY         = 'site-theme';
+const THEME_KEY          = 'site-theme';
 const MENU_TRANSITION_MS = 300;
-const menuBtn           = document.getElementById('menu-btn');
-const sideMenu          = document.getElementById('side-menu');
-const themeToggleBtn    = document.getElementById('theme-toggle-btn');
-const htmlEl            = document.documentElement;
+
+const menuBtn        = document.getElementById('menu-btn');
+const sideMenu       = document.getElementById('side-menu');
+const themeToggleBtn = document.getElementById('theme-toggle-btn');
+const htmlEl         = document.documentElement;
 
 (function applySavedTheme() {
   try {
@@ -14,10 +15,11 @@ const htmlEl            = document.documentElement;
 })();
 
 window.addEventListener('DOMContentLoaded', () => {
-  const isLightNow = htmlEl.classList.contains('light');
-  themeToggleBtn.innerHTML = isLightNow
-    ? '<i class="fas fa-sun"></i>'
-    : '<i class="fas fa-moon"></i>';
+  if (htmlEl.classList.contains('light')) {
+    themeToggleBtn.innerHTML = '<i class="fas fa-sun"></i>';
+  } else {
+    themeToggleBtn.innerHTML = '<i class="fas fa-moon"></i>';
+  }
 
   themeToggleBtn.addEventListener('click', e => {
     e.stopPropagation();
@@ -46,10 +48,12 @@ window.addEventListener('DOMContentLoaded', () => {
   const dropdown = document.querySelector('.dropdown');
   if (dropdown) {
     const toggleBtn = dropdown.querySelector('.dropdown-toggle');
-    toggleBtn.addEventListener('click', e => {
-      e.stopPropagation();
-      dropdown.classList.toggle('open');
-    });
+    if (toggleBtn) {
+      toggleBtn.addEventListener('click', e => {
+        e.stopPropagation();
+        dropdown.classList.toggle('open');
+      });
+    }
     document.addEventListener('click', e => {
       if (!dropdown.contains(e.target)) {
         dropdown.classList.remove('open');
