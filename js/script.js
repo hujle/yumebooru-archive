@@ -1,11 +1,24 @@
+// Constants
+const THEME_KEY = 'site-theme';
+const MENU_TRANSITION_MS = 300;
+
+// Elements
 const menuBtn = document.getElementById('menu-btn');
 const sideMenu = document.getElementById('side-menu');
 const themeToggleBtn = document.getElementById('theme-toggle-btn');
 const body = document.body;
 
-const MENU_TRANSITION_MS = 300;
+// Restore theme from localStorage
+const savedTheme = localStorage.getItem(THEME_KEY);
+if (savedTheme === 'light') {
+  body.classList.add('light');
+  themeToggleBtn.innerHTML = '<i class="fas fa-sun"></i>';
+} else {
+  body.classList.remove('light');
+  themeToggleBtn.innerHTML = '<i class="fas fa-moon"></i>';
+}
 
-// Function to open menu
+// Menu functions
 function openMenu() {
   sideMenu.classList.add('active');
   requestAnimationFrame(() => {
@@ -13,7 +26,6 @@ function openMenu() {
   });
 }
 
-// Function to close menu
 function closeMenu() {
   sideMenu.classList.remove('open');
   setTimeout(() => {
@@ -21,9 +33,9 @@ function closeMenu() {
   }, MENU_TRANSITION_MS);
 }
 
-// Toggle side menu on button click
-menuBtn.addEventListener('click', (e) => {
-  e.stopPropagation(); // не дать событию всплыть дальше
+// Toggle side menu
+menuBtn.addEventListener('click', e => {
+  e.stopPropagation();
   if (sideMenu.classList.contains('open')) {
     closeMenu();
   } else {
@@ -31,8 +43,8 @@ menuBtn.addEventListener('click', (e) => {
   }
 });
 
-// Close menu on click outside
-document.addEventListener('click', (e) => {
+// Close menu on outside click
+document.addEventListener('click', e => {
   if (
     sideMenu.classList.contains('open') &&
     !sideMenu.contains(e.target) &&
@@ -43,10 +55,11 @@ document.addEventListener('click', (e) => {
   }
 });
 
-// Toggle theme
-themeToggleBtn.addEventListener('click', (e) => {
+// Theme toggle
+themeToggleBtn.addEventListener('click', e => {
   e.stopPropagation();
   const isLight = body.classList.toggle('light');
+  localStorage.setItem(THEME_KEY, isLight ? 'light' : 'dark');
   themeToggleBtn.innerHTML = isLight
     ? '<i class="fas fa-sun"></i>'
     : '<i class="fas fa-moon"></i>';
@@ -55,14 +68,17 @@ themeToggleBtn.addEventListener('click', (e) => {
 // Dropdown logic
 document.addEventListener('DOMContentLoaded', () => {
   const dropdown = document.querySelector('.dropdown');
+  if (!dropdown) return;
+
   const toggleBtn = dropdown.querySelector('.dropdown-toggle');
+  if (toggleBtn) {
+    toggleBtn.addEventListener('click', e => {
+      e.stopPropagation();
+      dropdown.classList.toggle('open');
+    });
+  }
 
-  toggleBtn.addEventListener('click', (e) => {
-    e.stopPropagation();
-    dropdown.classList.toggle('open');
-  });
-
-  document.addEventListener('click', (e) => {
+  document.addEventListener('click', e => {
     if (!dropdown.contains(e.target)) {
       dropdown.classList.remove('open');
     }
