@@ -1,28 +1,27 @@
 const THEME_KEY         = 'site-theme';
 const MENU_TRANSITION_MS = 300;
+const menuBtn           = document.getElementById('menu-btn');
+const sideMenu          = document.getElementById('side-menu');
+const themeToggleBtn    = document.getElementById('theme-toggle-btn');
+const htmlEl            = document.documentElement;
 
-const menuBtn        = document.getElementById('menu-btn');
-const sideMenu       = document.getElementById('side-menu');
-const themeToggleBtn = document.getElementById('theme-toggle-btn');
-const root           = document.documentElement;
-
-(function() {
-  const savedTheme = localStorage.getItem(THEME_KEY);
-  const isLight    = savedTheme === 'light';
-
-  if (isLight) {
-    root.classList.add('light');
-    themeToggleBtn.innerHTML = '<i class="fas fa-sun"></i>';
-  } else {
-    root.classList.remove('light');
-    themeToggleBtn.innerHTML = '<i class="fas fa-moon"></i>';
-  }
+(function applySavedTheme() {
+  try {
+    if (localStorage.getItem(THEME_KEY) === 'light') {
+      htmlEl.classList.add('light');
+    }
+  } catch (e) {}
 })();
 
 window.addEventListener('DOMContentLoaded', () => {
+  const isLightNow = htmlEl.classList.contains('light');
+  themeToggleBtn.innerHTML = isLightNow
+    ? '<i class="fas fa-sun"></i>'
+    : '<i class="fas fa-moon"></i>';
+
   themeToggleBtn.addEventListener('click', e => {
     e.stopPropagation();
-    const isLight = root.classList.toggle('light');
+    const isLight = htmlEl.classList.toggle('light');
     localStorage.setItem(THEME_KEY, isLight ? 'light' : 'dark');
     themeToggleBtn.innerHTML = isLight
       ? '<i class="fas fa-sun"></i>'
@@ -31,11 +30,7 @@ window.addEventListener('DOMContentLoaded', () => {
 
   menuBtn.addEventListener('click', e => {
     e.stopPropagation();
-    if (sideMenu.classList.contains('open')) {
-      closeMenu();
-    } else {
-      openMenu();
-    }
+    sideMenu.classList.contains('open') ? closeMenu() : openMenu();
   });
 
   document.addEventListener('click', e => {
@@ -65,14 +60,10 @@ window.addEventListener('DOMContentLoaded', () => {
 
 function openMenu() {
   sideMenu.classList.add('active');
-  requestAnimationFrame(() => {
-    sideMenu.classList.add('open');
-  });
+  requestAnimationFrame(() => sideMenu.classList.add('open'));
 }
 
 function closeMenu() {
   sideMenu.classList.remove('open');
-  setTimeout(() => {
-    sideMenu.classList.remove('active');
-  }, MENU_TRANSITION_MS);
+  setTimeout(() => sideMenu.classList.remove('active'), MENU_TRANSITION_MS);
 }
