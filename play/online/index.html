@@ -177,15 +177,14 @@ window.addEventListener('load', (event) => {
       // Module is ready
       easyrpgPlayer = Module;
       easyrpgPlayer.initApi();
-      canvas.focus();
 
       // Custom code here
     });
 });
 
 // Make EasyRPG player embeddable
-canvas.addEventListener('mouseenter', () => canvas.focus());
-canvas.addEventListener('click', () => canvas.focus());
+canvas.addEventListener('mouseenter', () => window.focus());
+canvas.addEventListener('click', () => window.focus());
 
 // Handle clicking on the fullscreen button
 document.querySelector('#controls-fullscreen').addEventListener('click', () => {
@@ -279,7 +278,7 @@ function bindKey(node, key) {
 
 /** @type {{[key: number]: Gamepad}} */
 let gamepads = {};
-const haveEvents = 'ongamepadconnected' in window;
+const haveEvents = 'ongamepadonnected' in window;
 
 function addGamepad(gamepad) {
   if (gamepad == undefined) {
