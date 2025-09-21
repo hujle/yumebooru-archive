@@ -1,5 +1,19 @@
 [
   {
+  "date": "September 21, 2025",
+  "games": [
+    {
+      "name": "Quilt",
+      "changes": [
+        {
+          "action": "Added:",
+          "version": "ver.0.01a"
+        }
+      ]
+    }
+  ]
+  },
+  {
   "date": "September 15, 2025",
   "games": [
     {
