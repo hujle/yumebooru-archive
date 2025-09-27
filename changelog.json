@@ -1,5 +1,19 @@
 [
   {
+  "date": "September 27, 2025",
+  "games": [
+    {
+      "name": "Yume 2kki",
+      "changes": [
+        {
+          "action": "Added:",
+          "version": "ver.0.128e"
+        }
+      ]
+    }
+  ]
+  },
+  {
   "date": "September 21, 2025",
   "games": [
     {
