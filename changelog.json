@@ -1,5 +1,19 @@
 [
   {
+  "date": "September 28, 2025",
+  "games": [
+    {
+      "name": "Okuri",
+      "changes": [
+        {
+          "action": "Added:",
+          "version": "ver.20241110"
+        }
+      ]
+    }
+  ]
+  },
+  {
   "date": "September 27, 2025",
   "games": [
     {
