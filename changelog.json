@@ -1,5 +1,37 @@
 [
   {
+  "date": "October 07, 2025",
+  "games": [
+    {
+      "name": "Black Rain",
+      "changes": [
+        {
+          "action": "Added:",
+          "version": "ver.0.22a"
+        }
+      ]
+    },
+    {
+      "name": "Uneven Dream",
+      "changes": [
+        {
+          "action": "Added:",
+          "version": "ver.0.09 (03.10.2025)"
+        }
+      ]
+    },
+    {
+      "name": "Yume Yaissa",
+      "changes": [
+        {
+          "action": "Added:",
+          "version": "No Version"
+        }
+      ]
+    }
+  ]
+  },
+  {
   "date": "September 28, 2025",
   "games": [
     {
