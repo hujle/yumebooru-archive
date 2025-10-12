@@ -3,6 +3,20 @@
   "date": "October 07, 2025",
   "games": [
     {
+      "name": "Yume 2kki",
+      "changes": [
+        {
+          "action": "Added:",
+          "version": "ver.0.128f"
+        }
+      ]
+    }
+  ]
+  },
+  {
+  "date": "October 07, 2025",
+  "games": [
+    {
       "name": "Black Rain",
       "changes": [
         {
