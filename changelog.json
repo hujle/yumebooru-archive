@@ -1,5 +1,54 @@
 [
   {
+    "date": "November 09, 2025",
+    "games": [
+      {
+        "name": "Black Rain",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.23"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.23a"
+          }
+        ]
+      },
+      {
+        "name": "Dream Seed",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.2.00"
+          }
+        ]
+      },
+      {
+        "name": "Yume 2kki",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.128g"
+          }
+        ]
+      },
+      {
+        "name": "Yume Nikki PS1",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.00.1"
+          }
+        ]
+      }
+    ]
+  },
+  {
   "date": "October 13, 2025",
   "games": [
     {
