@@ -4,15 +4,6 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>EasyRPG Player</title>
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-JTWB5S752W"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-  
-    gtag('config', 'G-JTWB5S752W');
-  </script>
   <style>
     :root {
       --color-gray: hsl(0, 0%, 55%);
@@ -177,14 +168,15 @@ window.addEventListener('load', (event) => {
       // Module is ready
       easyrpgPlayer = Module;
       easyrpgPlayer.initApi();
+      canvas.focus();
 
       // Custom code here
     });
 });
 
 // Make EasyRPG player embeddable
-canvas.addEventListener('mouseenter', () => window.focus());
-canvas.addEventListener('click', () => window.focus());
+canvas.addEventListener('mouseenter', () => canvas.focus());
+canvas.addEventListener('click', () => canvas.focus());
 
 // Handle clicking on the fullscreen button
 document.querySelector('#controls-fullscreen').addEventListener('click', () => {
@@ -278,7 +270,7 @@ function bindKey(node, key) {
 
 /** @type {{[key: number]: Gamepad}} */
 let gamepads = {};
-const haveEvents = 'ongamepadonnected' in window;
+const haveEvents = 'ongamepadconnected' in window;
 
 function addGamepad(gamepad) {
   if (gamepad == undefined) {
