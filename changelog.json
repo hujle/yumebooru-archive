@@ -1,5 +1,85 @@
 [
   {
+    "date": "December 20, 2025",
+    "games": [
+      {
+        "name": "[COLD]",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.COoo+"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.COoo+ bugfix 2 (03.12.2025)"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.COoo++"
+          }
+        ]
+      },
+      {
+        "name": "Black Rain",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.24"
+          }
+        ]
+      },
+      {
+        "name": "Collective Unconscious",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.4.5"
+          }
+        ]
+      },
+      {
+        "name": "Dream Reverie",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.0.1a"
+          }
+        ]
+      },
+      {
+        "name": "FOG",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.1.51"
+          }
+        ]
+      },
+      {
+        "name": "Oomy",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "No Version (25.10.2025)"
+          },
+          {
+            "action": "Added:",
+            "version": "No Version (24.11.2025)"
+          }
+        ]
+      },
+      {
+        "name": "Yume Nikki PS1",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "Unknown Version (09.12.2025)"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "November 09, 2025",
     "games": [
       {
