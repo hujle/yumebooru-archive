@@ -1,5 +1,153 @@
 [
   {
+    "date": "January 27, 2026",
+    "games": [
+      {
+        "name": "Black Rain",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.025"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.025a"
+          }
+        ]
+      },
+      {
+        "name": "Book End",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.03"
+          }
+        ]
+      },
+      {
+        "name": "Collective Unconscious",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.4.6 Offline Build"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.4.7 Offline Build"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.4.8 Offline Build"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.4.9 Offline Build"
+          }
+        ]
+      },
+      {
+        "name": "ErIS: Z. θ-pRogram",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0-2.0"
+          }
+        ]
+      },
+      {
+        "name": "Iume Niqui",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.Pre-Alpha 0.015"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.Pre-Alpha 0.016"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.Pre-Alpha 0.017"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.Pre-Alpha 0.018"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.Pre-Alpha 0.019"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.Pre-Alpha 0.020"
+          }
+        ]
+      },
+      {
+        "name": "moonLess*L",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.04+"
+          }
+        ]
+      },
+      {
+        "name": "Oomy",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "No Version (07.01.2026)"
+          }
+        ]
+      },
+      {
+        "name": "Somnilithe",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.2.12"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.3.0"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.3.2"
+          }
+        ]
+      },
+      {
+        "name": "Unaccomplished",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.。！！！+"
+          }
+        ]
+      },
+      {
+        "name": "Uneven Dream",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.09 (03.10.2025) Patch 1"
+          }
+        ]
+      },
+      {
+        "name": "Yume 2kki",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.128i"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "December 21, 2025",
     "games": [
       {
