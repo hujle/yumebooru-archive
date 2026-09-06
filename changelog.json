@@ -1,5 +1,248 @@
 [
   {
+    "date": "September 07, 2026",
+    "games": [
+      {
+        "name": "[COLD]",
+        "changes": [
+          {
+            "action": "Edited:",
+            "description": "Added author's translations."
+          }
+        ]
+      },
+      {
+        "name": "Amillusion",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.00"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.1.01"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.1.02"
+          }
+        ]
+      },
+      {
+        "name": "Black Rain",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.026"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.026a"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.027"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.027a"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.027b"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.027c"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.027d"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.027e"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.027f"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.027g"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.028"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.028a"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.028b"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.028c"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.029"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.029a"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.029b"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.029c"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.029d"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.029e"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.029f"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.029g"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.030"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.030a"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.030b"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.030c"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.030d"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.030e"
+          }
+        ]
+      },
+      {
+        "name": "Cerasus",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.Leaves"
+          }
+        ]
+      },
+      {
+        "name": "Cerasus",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.Leaves"
+          }
+        ]
+      },
+      {
+        "name": "Donuts Coffee",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.01"
+          }
+        ]
+      },
+      {
+        "name": "Dream Distortion",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.05a"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.06"
+          }
+        ]
+      },
+      {
+        "name": "Dream Room",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "No Version"
+          }
+        ]
+      },
+      {
+        "name": "Dreampedia",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.01"
+          }
+        ]
+      },
+      {
+        "name": "DSM-V",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.01"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.02"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.03"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.04_fix"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.08"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.098"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.retail"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "January 27, 2026",
     "games": [
       {
