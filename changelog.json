@@ -1,5 +1,190 @@
 [
   {
+    "date": "September 08, 2026",
+    "games": [
+      {
+        "name": "ebb",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.01"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.01b"
+          }
+        ]
+      },
+      {
+        "name": "For Elise",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.02a"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.03"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.03a"
+          }
+        ]
+      },
+      {
+        "name": "Illove Dream",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.04"
+          }
+        ]
+      },
+      {
+        "name": "InthePast",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00"
+          }
+        ]
+      },
+      {
+        "name": "LAPIS lAZULi",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.02+"
+          }
+        ]
+      },
+      {
+        "name": "Love Drains",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "No Version"
+          }
+        ]
+      },
+      {
+        "name": "Oomy",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "No Version (31.01.2026)"
+          },
+          {
+            "action": "Added:",
+            "version": "No Version (19.06.2026)"
+          },
+          {
+            "action": "Added:",
+            "version": "No Version (25.08.2026)"
+          }
+        ]
+      },
+      {
+        "name": "Overnight",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver. Alpha 1"
+          },
+          {
+            "action": "Added:",
+            "version": "ver. Alpha 2 (Hotfix 1)"
+          }
+        ]
+      },
+      {
+        "name": "R1VEN",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.Demo 0.1.7"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.Demo 0.2.5"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.Demo 0.2.6"
+          }
+        ]
+      },
+      {
+        "name": "Subnetosis XP",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.1.4"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.1.4a"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.1.4b"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.1.4c"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.1.5"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.1.5a"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.1.5b"
+          }
+        ]
+      },
+      {
+        "name": "Yume 2kki",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.129"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.129a"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.129b"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.129c"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.129d"
+          }
+        ]
+      },
+      {
+        "name": "Yume Jumon",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "No Version"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "September 07, 2026",
     "games": [
       {
