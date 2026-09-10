@@ -1,5 +1,181 @@
 [
   {
+    "date": "September 09, 2026",
+    "games": [
+      {
+        "name": "Bereaved: Lonely Guardian",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "No Version"
+          }
+        ]
+      },
+      {
+        "name": "Dream Devour",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.0"
+          }
+        ]
+      },
+      {
+        "name": "DreamCatcher: Another Dreamy Night",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.00"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.1.01"
+          }
+        ]
+      },
+      {
+        "name": "Errant Dreams",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00"
+          }
+        ]
+      },
+      {
+        "name": "Fabrick of Reality",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.2"
+          }
+        ]
+      },
+      {
+        "name": "forlorn_",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.0"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.1"
+          }
+        ]
+      },
+      {
+        "name": "Hypnagogia (2025)",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.01"
+          }
+        ]
+      },
+      {
+        "name": "Lunatik",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0"
+          }
+        ]
+      },
+      {
+        "name": "Missing Memories",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.DDJ10"
+          }
+        ]
+      },
+      {
+        "name": "Moonland * Dreamland",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.DDJ"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.Edit"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.Edit2"
+          }
+        ]
+      },
+      {
+        "name": "Neru",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.01"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.02"
+          }
+        ]
+      },
+      {
+        "name": "Neural Crash",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.DDJ10 Release"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.0.1"
+          }
+        ]
+      },
+      {
+        "name": "PhantaYume",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.5 Demo"
+          }
+        ]
+      },
+      {
+        "name": "Somnilithe",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.6.2"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.6.3"
+          }
+        ]
+      },
+      {
+        "name": "Yugen no Yume",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.00"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.0.00+"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "September 08, 2026",
     "games": [
       {
@@ -42,7 +218,7 @@
         ]
       },
       {
-        "name": "InthePast",
+        "name": "InThePast",
         "changes": [
           {
             "action": "Added:",
