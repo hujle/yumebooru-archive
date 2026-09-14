@@ -1,5 +1,122 @@
 [
   {
+    "date": "September 14, 2026",
+    "games": [
+      {
+        "name": "Body",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.01b"
+          }
+        ]
+      },
+      {
+        "name": "Deleted Visions",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.2"
+          }
+        ]
+      },
+      {
+        "name": "Fever Dream",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.0.101"
+          }
+        ]
+      },
+      {
+        "name": "I Want Nothing",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "No Version"
+          }
+        ]
+      },
+      {
+        "name": "Neomythic",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "No Version"
+          }
+        ]
+      },
+      {
+        "name": "Reset Requiem",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "No Version"
+          }
+        ]
+      },
+      {
+        "name": "Smiley Face",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.;)"
+          },
+          {
+            "action": "Added:",
+            "version": "ver.=)"
+          }
+        ]
+      },
+      {
+        "name": "SOMATIKOS",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "No Version"
+          }
+        ]
+      },
+      {
+        "name": "Somniscaper",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.1.1"
+          }
+        ]
+      },
+      {
+        "name": "Super Chrysalis Advance 64 XL, Part 2: Raging Fire Remastered (Wireless Edition)",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.1.2"
+          }
+        ]
+      },
+      {
+        "name": "Where She Remembers",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "No Version"
+          }
+        ]
+      },
+      {
+        "name": "Yume Nezumi",
+        "changes": [
+          {
+            "action": "Added:",
+            "version": "ver.0.1"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "September 11, 2026",
     "games": [
       {
